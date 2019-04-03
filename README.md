@@ -46,6 +46,13 @@ There are still some bugs in this code getting 0.54 AUC on OTB50, but changing t
 
 3，Use warm epochs to avoid grad explosion, can use grad clip instead.
 
+fixed in 59versions.
+
+## pretrained models
+https://drive.google.com/drive/folders/1HJOvl_irX3KFbtfj88_FVLtukMI1GTCR
+This is the pretrained modificated alexnet provided by Li Bo.
+
+
 ## update
 
 can get 0.605 auc on otb100 and 0.31 eao on vot2015 with Youtube-BB dataset

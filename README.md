@@ -55,7 +55,7 @@ This is the pretrained modificated alexnet provided by Li Bo.
 
 ## update
 
-can get 0.605 auc on otb100 and 0.31 eao on vot2015 with Youtube-BB dataset
+can get 0.626 auc on otb100 and 0.31 eao on vot2015 with Youtube-BB dataset
 
 ## Reference
 
